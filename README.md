@@ -171,7 +171,7 @@ top
 ```
 MyNumberHere | MyUserName | 00 | 0 | 00 | 00 | 00 | S | 0.0  | 0.0 | 0:00.00 | omp-server
 ```
-  - Anote ou memorize e depois digite:
+  - Anote ou memorize, pressione a tecla 'Q' para sair e depois digite:
 ```sh
 sudo kill MyNumberHere
 ```
