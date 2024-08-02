@@ -183,7 +183,7 @@ sudo kill MyNumberHere
 - Leia [este guia](https://github.com/adib-yg/openmp-server-installation) para entender como transferir os seus arquivos do servidor para o seu host.
 
 > [!NOTE] 
-> *Não se esqueça de que o Linux lê arquivos .dll, sempre baixe os arquivos .so correspondentes!*
+> *Não se esqueça de que o Linux não lê arquivos .dll, sempre baixe os arquivos .so correspondentes!*
 
 <br>
 <br>
