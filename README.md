@@ -32,7 +32,7 @@ Antes de começar este guia, você deve ter:
 ### Passo 1 - Abra o PuTTY ou o terminal de SSH do seu host e conecte-se
 > [!NOTE] 
 > *Existem guias completos na web ou até mesmo no site do seu host sobre como conectar via PuTTY.<br>
-> Algumas conexões SSH exigem uma chave, então não posso fornecer ajuda específica aqui, mas sinta-se à vontade para perguntar no Discord do open.mp ou buscar na web!*
+> Algumas conexões SSH exigem uma key, então não posso fornecer ajuda específica aqui, mas sinta-se à vontade para perguntar no Discord do open.mp ou buscar na web!*
 
 <br>
 
